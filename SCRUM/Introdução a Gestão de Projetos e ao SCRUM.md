@@ -1,0 +1,69 @@
+## gestão de projetos   
+- Tradiciona (waterfall): 
+  - só permite q o projeto avance qd uma fase está inteiramente completa
+  - escopo definido na fase inicial do projeto (preditivo)
+  - projeto controlado por fases e marcos
+  - cliente só vê o sw funcionando na fase final do projeto
+  - resistência a mudanças
+  - retardo para descobrir falhas no projeto
+- Ágil: 
+  - sw construído por partes(incrementa) e cada parte é executada em um ciclo (iterativo)
+  - escopo definido ao longo do projeto (adaptativo)
+  - projeto é controlado por funcionalidades entregues
+  - cliente pode ver parte do sw funcionando na parte inicial do projeto
+  - mudanças cte de acordo com feedbacks contínuos
+  - falhas podem ser encontradas de maneira precoce
+  - ser ágil:
+    - rapidez na resposta a mudança e desembaraço
+    - fazer coisas complexas de forma simples
+    - equipe comprometida com os objetivos
+    - maior valor para o cliente
+  - SCRUM:
+    - framework de gerenciamento de projetos ágeis
+    - projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados
+    - pilares:
+      - transparência
+        - conversar + e escrever -
+        - demonstrar o sw cte aos usuários e obter feedbaks
+      - adaptação:
+        - requisitos mudam ao longo do tempo
+      - inspeção:
+        - aprender progressivamente com o uso do sw
+    - desenvolvimento e entregue em partes menores com cte feedback dos usuários.
+    - melhor gerenciamento de riscos
+    - comprometimento, motivação e tranparência da equipe (daily meeting)
+    - maior valor para o negócio (priorização do backlog)
+    - usuários envolvidos durante td o ciclo
+    - aplicação das lições aprendidas
+    - time SCRUM
+      - equipes capazes de se auto-organizarem
+      - as tarefas são do time e tds são responsáveis
+      - forte comprometimento com os resultados
+    - Papéis:
+      - Product owner (PO):
+        - representante da área de negócios
+        - PO não é um comitê
+        - define as funcionalidades do sw (product backlog)
+        - prioriza as funcionalidades de acordo com o valor do negócio
+        - garante que o time de desenvolvimento entenda os itens do backlog no nível necessário
+      - Scrum master (SM)
+        - garante o uso correto do SCRUM
+        - Scrum master não é gerente de projetos
+        - age como facilitador
+        - auxilia o PO no planejamento e estimativas do backlog
+        - auxilia a equie a remover impedimentos
+        - treina o time em autogerenciamento e interdisciplinaridade
+      - Time de desenvolvimento (DEV):
+        - possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, td q for necessário para entregar o sw funcionando
+    - Time box : tempo máx para fazer uma cerimônia ou sprint
+    - Duração de 1 sprint: 30 dias corridos (+/-)
+    - sprint: 
+      - planejamento da sprint: PO, SM, DEV, dura 8h (4h - o q fazer?, o po fala para o time o que precisa fazer. 4h - )
+      - reuniões diárias
+      - revisão da sprint
+      - retrospectiva da sprint
+      - stand up meeting
+      - reuniões diárias
+      - revisão da sprint
+      - devs apresentam para o PO o trabalho feito
+      - retrospectiva da sprint: reunião da equipe para lições aprendidas -> transparência
