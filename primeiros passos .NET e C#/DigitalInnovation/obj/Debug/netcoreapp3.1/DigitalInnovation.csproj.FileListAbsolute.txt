@@ -1,0 +1,13 @@
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.exe
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.deps.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.runtimeconfig.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.runtimeconfig.dev.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.dll
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\bin\Debug\netcoreapp3.1\DigitalInnovation.pdb
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.csprojAssemblyReference.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.AssemblyInfoInputs.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.AssemblyInfo.cs
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.csproj.CoreCompileInputs.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.dll
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.pdb
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\DigitalInnovation\obj\Debug\netcoreapp3.1\DigitalInnovation.genruntimeconfig.cache
