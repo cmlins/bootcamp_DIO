@@ -1,0 +1,13 @@
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+C:\Users\Cinthya\workspace\bootcamp_everis\primeiros passos .NET e C#\exemplo prático\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
