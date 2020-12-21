@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Cinthya\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Cinthya\\.nuget\\packages"
+      "C:\\Users\\Cinthya\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }
