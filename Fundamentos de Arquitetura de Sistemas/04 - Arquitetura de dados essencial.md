@@ -81,25 +81,3 @@
     - gratuitos: PostgreSQL, MySQL, SQLite
 
 ## Aula 06 --> Criando banco de dados
-
-- demostração de POSTGRE
-
-Qual alternativa está incorreta? Dados são secundários em um sistema ou exploração da informação.
-
-O que é uma primary key? Uma regra que determina que o valor do registro é único dentro de todo o conjunto de dados.
-
-Qual afirmação não está correta? Banco de dados relacionais são idênticos ao modelo flat.
-
-Um índice é: Uma nova tabela físico-memória, ordenada da esquerda para a direita, de uma ou mais colunas da tabela.
-
-Qual alternativa não faz parte do conceito ACID? Continuidade.
-
-Quanto ao DER podemos afirmar que: Nenhuma está correta.
-
-O que é um SGDB? Um sistema que gerencia banco de dados.
-
-O que é Abstração de Dados? A maneira como são convertidos de um meio físico para uma visão simplificada para o usuário.
-
-O comando minus entre duas instruções de DQL é equivalente a qual operação relacional? A subtração do segundo conjunto do primeiro conjunto de informações.
-
-Qual afirmação é correta para DDL? É responsável pela alteração do dicionário de dados.
