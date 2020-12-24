@@ -49,3 +49,7 @@ modelo relacional - modelo de dado representativo onde os dados estão em tabela
   - importante:
     - liberar acesso ao cluster em postgreSQL.conf
 
+
+
+
+
